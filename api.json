@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/amarok",
     "maintainers": [
       {
@@ -18,240 +16,110 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "amarok",
     "name": "Amarok",
-    "aliases": [
-      {
-        "name": "Amaroq",
-        "language": "Inuit",
-        "meaning": "Variant spelling"
-      },
-      {
-        "name": "Amaruq",
-        "language": "Inuit",
-        "meaning": "Variant spelling"
-      }
-    ],
+    "aliases": [],
     "category": "CRYPTID",
-    "subcategory": "Entity/Spirit",
+    "subcategory": "Canine",
     "tags": [
-      "inuit-mythology",
-      "giant-wolf",
-      "arctic",
-      "solitary-hunter",
-      "cautionary-tale",
-      "cryptid",
-      "cultural-tradition"
+      "&-themes"
     ],
-    "status": "mythological",
+    "status": "documented",
     "description": {
-      "summary": "Giant wolf from Inuit mythology that hunts alone at night, specifically targeting lone hunters who break hunting traditions and safety rules.",
-      "full": "Amarok is a gigantic wolf from Inuit mythology that hunts alone, contrasting with normal wolves that hunt in packs. This enormous creature stalks the Arctic night, specifically targeting hunters who foolishly hunt alone at night, breaking traditional safety rules. The Amarok serves as a cautionary tale about the dangers of hunting alone and the importance of respecting wilderness safety and traditional hunting practices. Unlike the social structure of real wolves, the Amarok is a solitary predator, symbolizing the consequences of isolation and recklessness in the harsh Arctic environment. The creature represents the natural order and punishes those who defy traditional knowledge and community safety practices."
+      "summary": "Amarok is a gigantic wolf from Inuit mythology that hunts alone, contrasting with normal wolves that hunt in packs.",
+      "full": "Amarok is a gigantic wolf from Inuit mythology that hunts alone, contrasting with normal wolves that hunt in packs. This enormous creature stalks the Arctic night, specifically targeting hunters who foolishly hunt alone at night, breaking traditional safety rules. The Amarok serves as a cautionary tale about the dangers of hunting alone and the importance of respecting wilderness safety and traditional hunting practices. Unlike the social structure of real wolves, the Amarok is a solitary predator, symbolizing the consequences of isolation and recklessness in the harsh Arctic environment."
     },
     "etymology": {
-      "origin": "Inuit languages, various spellings across Arctic regions",
-      "meaning": "Wolf or giant wolf",
-      "regional_variations": "Amarok, Amaroq, Amaruq depending on regional Inuit dialects"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Entity/Spirit",
-      "subtype": "Canine",
-      "variant": "Inuit/Arctic"
+      "type": "Canine",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "wendigo",
-        "name": "Wendigo",
-        "relationship": "related",
-        "description": "Different spirit of the north but both serve as cautionary tales"
-      },
-      {
-        "id": "fenrir",
-        "name": "Fenrir",
-        "relationship": "similar",
-        "description": "Norse giant wolf, similar enormous canine mythology"
-      },
-      {
-        "id": "dire-wolf",
-        "name": "Dire Wolf",
-        "relationship": "similar",
-        "description": "Prehistoric giant wolves, possible inspiration"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "description": "Enormous, much larger than normal wolves",
-        "confidence": "mythological"
-      },
-      "features": [
-        {
-          "feature": "Size",
-          "description": "Gigantic, far exceeding normal wolf dimensions",
-          "frequency": "always"
-        },
-        {
-          "feature": "Appearance",
-          "description": "Wolf-like but of massive proportions",
-          "frequency": "always"
-        },
-        {
-          "feature": "Solitary nature",
-          "description": "Hunts alone, unlike pack-hunting wolves",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Gigantic wolf, solitary predator of the Arctic night"
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Nocturnal hunting",
-        "description": "Hunts at night in Arctic conditions",
-        "frequency": "always",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Tracking",
-        "description": "Finds lone hunters who violate safety traditions",
-        "frequency": "always",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Supernatural strength",
-        "description": "Immense power befitting its size",
-        "frequency": "always",
-        "evidence_level": "mythological"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "punitive",
-      "social_structure": "solitary (contrasts with pack-hunting wolves)",
-      "habitat_preference": [
-        "Arctic regions",
-        "wilderness areas",
-        "night-time hunting grounds"
-      ],
-      "patterns": [
-        "Hunts alone at night",
-        "Targets lone hunters specifically",
-        "Punishes those who break hunting safety rules",
-        "Serves as enforcement of traditional knowledge"
-      ],
-      "purpose": "Cautionary tale to prevent dangerous hunting practices"
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Inuit traditional territories across the Arctic",
-      "continents": ["North America"],
-      "countries": ["Canada", "United States (Alaska)", "Greenland"],
-      "regions": [
-        "Arctic Canada",
-        "Greenland",
-        "Alaska",
-        "Inuit territories"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-colonial",
+        "date": "Unknown",
         "circa": true,
-        "source": "Inuit oral traditions"
-      },
-      "cultural_period": "Traditional Inuit knowledge, passed through oral tradition",
-      "modern_presence": "Continues in Inuit cultural practices and modern fantasy media"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Inuit traditional knowledge and oral traditions",
-      "earliest_accounts": "Pre-colonial oral traditions",
-      "folklore_connections": "Part of broader Inuit spiritual and practical knowledge systems"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "modern_era": "Amarok appears in modern fantasy literature, role-playing games (Pathfinder), and serves as a symbol of wilderness danger and traditional wisdom. Respected in Inuit communities as traditional knowledge."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Inuit oral traditions",
-        "Hunting safety teachings",
-        "Arctic survival knowledge"
-      ],
-      "stories": [
-        "Stories of lone hunters attacked by Amarok",
-        "Warnings about hunting alone at night",
-        "Tales emphasizing community hunting practices"
-      ],
-      "beliefs": "Amarok enforces natural order and traditional hunting safety, punishing recklessness"
-    },
-    "indigenous": {
-      "cultures": [
-        "Inuit peoples",
-        "Greenlandic Inuit",
-        "Alaskan Inuit"
-      ],
-      "significance": "Teaching tool for hunting safety and respect for wilderness",
-      "sensitivity_note": "This is traditional Inuit knowledge that should be approached with cultural respect. The Amarok story serves practical and spiritual purposes in Inuit culture.",
-      "respect_guidelines": "Recognize this as living cultural tradition, not merely folklore. Consult Inuit communities for cultural context and proper representation."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Fantasy literature featuring Arctic themes",
-        "Modern cryptozoology books"
-      ],
-      "games": [
-        "Pathfinder role-playing game",
-        "Various fantasy games featuring Arctic creatures"
-      ],
-      "other": [
-        "Volkswagen Amarok truck (named after the creature)",
-        "Metal music references",
-        "Modern cryptid interest"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "symbolism": {
-    "themes": [
-      "Wilderness danger",
-      "Consequences of recklessness",
-      "Natural order",
-      "Traditional knowledge",
-      "Community vs. isolation",
-      "Respect for the Arctic"
-    ],
-    "teaching_purpose": "Keeps hunters safe by discouraging dangerous solo hunting at night"
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "cultural_sensitivity": {
-    "note": "The Amarok is part of Inuit traditional knowledge and should be treated with respect as a living cultural tradition, not merely as folklore or cryptid legend. This story serves practical purposes in teaching hunting safety and survival skills in Arctic environments.",
-    "guidance": "When discussing or representing Amarok, acknowledge its origins in Inuit culture and its role in traditional knowledge systems. Consult with Inuit communities for proper cultural context."
-  },
-
-  "sources": [
-    {
-      "id": "inuit-oral-traditions",
-      "type": "oral tradition",
-      "title": "Inuit Oral Traditions",
-      "notes": "Traditional stories passed through generations"
-    },
-    {
-      "id": "inuit-mythology-studies",
-      "type": "academic",
-      "title": "Studies of Inuit Mythology and Traditional Knowledge",
-      "notes": "Academic documentation of Inuit cultural traditions"
-    }
-  ]
+  "sources": []
 }
